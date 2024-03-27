@@ -2,6 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+!+Nice+to+meet+you;Welcome+M.seonju+GitHub)](https://git.io/typing-svg)
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stylish&size=25&pause=1000&color=0D2D3B&vCenter=true&random=false&width=435&lines=%EC%A7%80%EA%B8%88%EC%9D%80+%EA%B0%9C%EB%B0%9C+%EA%B3%B5%EB%B6%80%EC%A4%91....!!!)](https://git.io/typing-svg)
+
 <img align="right"  alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 ### 💪 SKILL 
