@@ -14,7 +14,7 @@
 <img alt="tailwind badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"> <img alt="React query badge" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white"> <img alt="React hook form badge" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white"> <img alt="ESLint badge" src="https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white"> <img alt="recoil badge" src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"> <img alt="context api badge" src="https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 
-### ✏️ STUDY..ing
+### ✏️ STUDY SKILL..ing
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 
 ### 🛠️ TOOL
@@ -23,6 +23,8 @@
 ### 🙋‍♀️ LANGUAGES
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
+
+### 😇 STUDY 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
 </a>
